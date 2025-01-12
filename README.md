@@ -92,10 +92,10 @@ The system implements a Redis-based distributed locking mechanism to handle conc
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kirana-store.git
+git clone https://github.com/your-username/kirana-store-management.git
 
 # Install dependencies
-cd kirana-store
+cd kirana-store-management
 npm install
 
 # Set up environment variables
